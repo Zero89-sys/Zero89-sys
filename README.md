@@ -6,7 +6,8 @@ I am a high school student from the Czech Republic specializing in IT. I enjoy l
 
 ### 🛠 Tech Stack
 
-- **Languages:**[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,php,js,html,css,blender)](https://skillicons.dev)
+- **Languages:**
+- [![My Skills](https://skillicons.dev/icons?i=cs,php,js,html,css)](https://skillicons.dev)
 
 - **Frameworks & Tools:** ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
   ![AvaloniaUI](https://img.shields.io/badge/Avalonia-0099FF?style=for-the-badge&logo=dotnet&logoColor=white)
