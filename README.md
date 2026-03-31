@@ -29,6 +29,6 @@ I am a high school student from the Czech Republic specializing in IT. I enjoy l
 
 When I'm not programming, I'm probably doing one of the following:
 
-- **Board games:** I’m fascinated by strategy games like **Chess**, **Shogi**, and **Go**. I enjoy analyzing positions and searching for optimal solutions—much like in programming.
+- **Board games:** I’m fascinated by strategy games like **Chess**, **Shogi**, and **Go**.
 - **Reading:** I mostly read **non-fiction** (philosophy, psychology, history).
 - **Gaming:** Sometimes I make time to play games.
