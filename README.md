@@ -8,8 +8,10 @@ I am a high school student from the Czech Republic specializing in IT. I enjoy l
 
 - **Languages:**
 <p align="left">
-[![My Skills](https://skillicons.dev/icons?i=cs,php,js,html,css)](https://skillicons.dev)
-</p>;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,php,js,html,css" />
+  </a>
+</p>
 
 - **Frameworks & Tools:**
 <p align="left">
@@ -19,7 +21,9 @@ I am a high school student from the Czech Republic specializing in IT. I enjoy l
 
 - **3D Graphics:**
 <p align="left">
-[![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender" />
+  </a>
 </p>
 
 ---
