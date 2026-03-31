@@ -19,10 +19,9 @@ I am a high school student from the Czech Republic specializing in IT. I enjoy l
 
 ---
 
-### 🎯 Na čem pracuji
-- 📱 Vyvíjím aplikace v **MAUI** a **Avalonia** pro desktop i mobilní platformy.
-- 🧊 Modeluji objekty v **Blenderu** (projekty zaměřené na herní assety a vizualizace).
-- 🌐 Experimentuji s backendem v **PHP**.
+### 🎯 Current focus
+- 🖥️ **Desktop & Mobile:** Building cross-platform applications using **MAUI** and **Avalonia**.
+- 🌐 **Web Development:** Creating web solutions with a focus on **PHP** and modern frontend.
 
 ---
 
@@ -33,14 +32,3 @@ When I'm not programming, I'm probably doing one of the following:
 - **Board games:** I’m fascinated by strategy games like **Chess**, **Shogi**, and **Go**. I enjoy analyzing positions and searching for optimal solutions—much like in programming.
 - **Reading:** I mostly read **non-fiction** (philosophy, psychology, history).
 - **Gaming:** Sometimes I make time to play games.
-
----
-
-### 📈 Stats
-![Tvé GitHub Stats](https://github-readme-stats.vercel.app/api?username=TVÉ-UŽIVATELSKÉ-JMÉNO&show_icons=true&theme=radical)
-
----
-
-### 📫 Jak mě zastihnout
-- **LinkedIn:** [Tvůj profil](https://linkedin.com/in/tvé-jméno)
-- **Email:** [tvůj@email.cz]
