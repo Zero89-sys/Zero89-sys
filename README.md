@@ -1,14 +1,16 @@
 # Hi, 👋
 
-I am a high school student from the Czech Republic specializing in IT. I enjoy learning new things and am passionate about developing. Currently, I am focusing primarily on developing multiplatform applications and 3D graphics.
+I am a high school student from the Czech Republic specializing in IT. I enjoy learning new things and I am passionate about developing. Currently, I am focusing primarily on developing multiplatform applications and 3D graphics.
 
 ---
 
 ### 🛠 Tech Stack
 
-- **Languages:** ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Languages:** <p align="left">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,js,html,css,blender" />
+</a>
+</p>
 
 - **Frameworks & Tools:** ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
   ![AvaloniaUI](https://img.shields.io/badge/Avalonia-0099FF?style=for-the-badge&logo=dotnet&logoColor=white)
