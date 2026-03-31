@@ -12,11 +12,11 @@ I am a high school student from the Czech Republic specializing in IT. I enjoy l
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS" />
 
 - **Frameworks & Tools:**
-<img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat&logo=dotnet&logoColor=white" alt="MAUI" />
-<img src="https://img.shields.io/badge/Avalonia%20UI-0099FF?style=flat&logo=dotnet&logoColor=white" alt="Avalonia" />
+  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat&logo=dotnet&logoColor=white" alt="MAUI" />
+  <img src="https://img.shields.io/badge/Avalonia%20UI-0099FF?style=flat&logo=dotnet&logoColor=white" alt="Avalonia" />
 
 - **3D Graphics:**
-<img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" alt="Blender" />
 
 ---
 
