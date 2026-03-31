@@ -9,7 +9,7 @@ I am a high school student from the Czech Republic specializing in IT. I enjoy l
 - **Languages:**
 <p align="left">
 [![My Skills](https://skillicons.dev/icons?i=cs,php,js,html,css)](https://skillicons.dev)
-</p>
+</p>;
 
 - **Frameworks & Tools:**
 <p align="left">
