@@ -6,16 +6,21 @@ I am a high school student from the Czech Republic specializing in IT. I enjoy l
 
 ### 🛠 Tech Stack
 
-- **Languages:**<p align="left">
-  [![My Skills](https://skillicons.dev/icons?i=cs,php,js,html,css)](https://skillicons.dev)
+- **Languages:**
+<p align="left">
+[![My Skills](https://skillicons.dev/icons?i=cs,php,js,html,css)](https://skillicons.dev)
 </p>
 
-- **Frameworks & Tools:** ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![AvaloniaUI](https://img.shields.io/badge/Avalonia-0099FF?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **Frameworks & Tools:**
+<p align="left">
+<img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat&logo=dotnet&logoColor=white" alt="MAUI" />
+<img src="https://img.shields.io/badge/Avalonia%20UI-0099FF?style=flat&logo=dotnet&logoColor=white" alt="Avalonia" />
+</p>
 
-- **3D Graphics:** ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+- **3D Graphics:**
+<p align="left">
+[![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
+</p>
 
 ---
 
