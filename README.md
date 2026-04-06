@@ -14,6 +14,7 @@ I am a high school student from the Czech Republic specializing in IT. I enjoy l
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
 
 - **Frameworks & Tools:**
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat&logo=dotnet&logoColor=white" alt="MAUI" />
   <img src="https://img.shields.io/badge/Avalonia%20UI-0099FF?style=flat&logo=dotnet&logoColor=white" alt="Avalonia" />
 
