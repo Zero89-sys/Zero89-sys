@@ -25,7 +25,7 @@ I am a high school student from the Czech Republic specializing in IT. I enjoy l
 
 ### 🎯 Current focus
 - 🖥️ **Desktop & Mobile:** Building cross-platform applications using **MAUI** and **Avalonia**.
-- 🌐 **Web Development:** Creating web solutions with a focus on **PHP** and modern frontend.
+- 🌐 **Web Development:** Creating websites with a focus on **PHP** and modern frontend.
 
 ---
 
