@@ -1,4 +1,4 @@
-# Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello,👋
 
 I am a high school student from the Czech Republic specializing in IT. I enjoy learning new things and I am passionate about developing. Currently, I am focusing primarily on developing multiplatform applications and 3D graphics.
 
