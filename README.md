@@ -1,6 +1,6 @@
 # Hello,👋
 
-I am a high school student from the Czech Republic specializing in IT. I enjoy learning new things and I am passionate about developing. Currently, I am focusing primarily on developing multiplatform applications and 3D graphics.
+I am a high school student from the Czech Republic specializing in IT. I enjoy learning new things and I am passionate about developing.
 
 ---
 <h2>Tech stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="26px" align="absmiddle"></h2>
